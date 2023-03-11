@@ -1,1 +1,1 @@
-# YA_Intensive_weekend_in_mathematical_analysis_of_the_Yandex_Academy
+Intensive weekend in mathematical analysis of the Yandex Academy
